@@ -27,6 +27,7 @@ dos dados.
 
 O projeto utiliza uma organização baseada no padrão MVC:
 
+```text
 Model
   ↓
 Dados e regras relacionadas às entidades
