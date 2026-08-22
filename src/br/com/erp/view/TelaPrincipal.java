@@ -1,5 +1,11 @@
 package br.com.erp.view;
 
-public class TelaPrincipal {
+import javax.swing.*;
 
+public class TelaPrincipal extends JFrame {
+
+	public TelaPrincipal() {
+
+	}
+	
 }
